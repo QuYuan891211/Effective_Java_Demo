@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9257effd-c5dd-4f86-82fa-a9e2fc87311a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Tip1_StaticFactoryMethod/Provider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Tip1_StaticFactoryMethod/Service.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Tip2_StaticFactoryMethod/NutritionFacts.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Tip1_StaticFactoryMethod.java" afterPath="$PROJECT_DIR$/src/main/java/Tip1_StaticFactoryMethod/Services.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Services.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Services.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Tip1_StaticFactoryMethod/Services.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -41,6 +39,16 @@
                 <element signature="e#645#646#0" expanded="true" />
                 <element signature="e#692#693#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NutritionFacts.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Tip2_StaticFactoryMethod/NutritionFacts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -80,8 +88,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -101,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Tip1_StaticFactoryMethod/Tip1_StaticFactoryMethod.java" />
         <option value="$PROJECT_DIR$/src/main/java/Tip1_StaticFactoryMethod/Provider.java" />
         <option value="$PROJECT_DIR$/src/main/java/Tip1_StaticFactoryMethod/Services.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tip2_StaticFactoryMethod/NutritionFacts.java" />
       </list>
     </option>
   </component>
@@ -165,7 +174,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Tip1_StaticFactoryMethod" type="462c0819:PsiDirectoryNode" />
+              <item name="Tip2_StaticFactoryMethod" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -289,12 +298,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529895410612</updated>
-      <workItem from="1529895417812" duration="9365000" />
+      <workItem from="1529895417812" duration="10036000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9365000" />
+    <option name="totallyTimeSpent" value="10036000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -384,6 +393,14 @@
             <element signature="e#645#646#0" expanded="true" />
             <element signature="e#692#693#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tip2_StaticFactoryMethod/NutritionFacts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
